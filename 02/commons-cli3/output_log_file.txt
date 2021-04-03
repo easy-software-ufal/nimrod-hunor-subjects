@@ -1,0 +1,268 @@
+Class: org.apache.commons.cli.TypeHandler
+Classpath: /home/leofernandesmo/workspace/easylab/defects4j/subjects/Cli_3f/target/classes:/home/leofernandesmo/.maven/repository/commons-lang/jars/commons-lang-2.1.jar:/home/leofernandesmo/.maven/repository/junit/jars/junit-3.8.1.jar
+Running ant (compile)...................................................... OK
+Running ant (compile.tests)................................................ OK
+Running ant (compile.tests)................................................ OK
+Running ant (run.dev.tests)................................................ OK
+Failing tests: 0
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Object.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Object.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation': class file for jdk.Profile+Annotation not found
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/String.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/String.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/File.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/net/MalformedURLException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/net/URL.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/util/Date.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Class.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Number.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/File.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/net/MalformedURLException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/net/URL.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/util/Date.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Class.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Number.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/AutoCloseable.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/AutoCloseable.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/ClassNotFoundException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/ClassNotFoundException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/ReflectiveOperationException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/ReflectiveOperationException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Exception.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Exception.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Throwable.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Throwable.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/System.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/System.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/PrintStream.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/PrintStream.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/FilterOutputStream.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/FilterOutputStream.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/OutputStream.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/OutputStream.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/InstantiationException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/InstantiationException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/IllegalAccessException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/IllegalAccessException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Double.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Double.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Long.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Long.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/NumberFormatException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/NumberFormatException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/IllegalArgumentException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/IllegalArgumentException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/RuntimeException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/RuntimeException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/IOException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/IOException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/net/URI.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/net/URI.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Error.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Error.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+#Generated Mutants: 45 (158 ms)
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/StringBuilder.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/StringBuilder.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/CharSequence.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/CharSequence.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/Serializable.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/Serializable.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Comparable.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Comparable.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/AbstractStringBuilder.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/AbstractStringBuilder.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/StringBuffer.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/StringBuffer.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+66 warnings
+Running ant (compile.tests)................................................ OK
+Running ant (coverage.instrument).......................................... OK
+Running ant (run.dev.tests)................................................ OK
+Running ant (coverage.report).............................................. OK
+       Lines total: 59
+     Lines covered: 29
+  Conditions total: 24
+Conditions covered: 16
+     Line coverage: 49.2%
+Condition coverage: 66.7%
+Compiling mutant definition (mml).......................................... OK
+Running ant (mutate)....................................................... OK
+Running ant (compile.tests)................................................ OK
+Running ant (mutation.test)................................................ OK
+Mutants generated: 23
+  Mutants covered: 15
+   Mutants killed: 8
+   Mutation score: 53.3% (34.8%)
+   Total run time: 52.0 seconds
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Object.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Object.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation': class file for jdk.Profile+Annotation not found
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/String.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/String.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/File.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/net/MalformedURLException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/net/URL.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/util/Date.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Class.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Number.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/File.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/net/MalformedURLException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/net/URL.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/util/Date.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Class.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Number.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/AutoCloseable.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/AutoCloseable.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/ClassNotFoundException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/ClassNotFoundException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/ReflectiveOperationException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/ReflectiveOperationException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Exception.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Exception.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Throwable.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Throwable.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/System.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/System.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/PrintStream.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/PrintStream.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/FilterOutputStream.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/FilterOutputStream.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/OutputStream.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/OutputStream.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/InstantiationException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/InstantiationException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/IllegalAccessException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/IllegalAccessException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Double.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Double.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Long.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Long.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/NumberFormatException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/NumberFormatException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/IllegalArgumentException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/IllegalArgumentException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/RuntimeException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/RuntimeException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/IOException.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/IOException.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/net/URI.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/net/URI.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Error.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Error.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+#Generated Mutants: 45 (126 ms)
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/StringBuilder.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/StringBuilder.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/CharSequence.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/CharSequence.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/Serializable.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/io/Serializable.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Comparable.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Comparable.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/AbstractStringBuilder.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/AbstractStringBuilder.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/StringBuffer.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/StringBuffer.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+66 warnings
+1,2,3,5,6,9,15,16,
+./allmutants/32
+./allmutants/34
+./allmutants/33
+./allmutants/13
+./allmutants/19
+./allmutants/17
+./allmutants/30
+./allmutants/31
+./allmutants/25
+./allmutants/7
+./allmutants/11
+./allmutants/40
+./allmutants/37
+./allmutants/36
+./allmutants/41
+./allmutants/44
+./allmutants/45
+./allmutants/12
+./allmutants/35
+./allmutants/43
+./allmutants/14
+./allmutants/4
+./allmutants/22
+./allmutants/24
+./allmutants/18
+./allmutants/42
+./allmutants/28
+./allmutants/27
+./allmutants/8
+./allmutants/23
+./allmutants/21
+./allmutants/10
+./allmutants/29
+./allmutants/26
+./allmutants/38
+./allmutants/20
+./allmutants/39
+Finished.
+Finished

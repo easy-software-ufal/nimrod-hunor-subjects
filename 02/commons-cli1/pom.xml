@@ -249,6 +249,8 @@
                     <value>org.evosuite.runtime.InitializingListener</value>
                 </property>
             </properties>
+            <forkedProcessTimeoutInSeconds>40</forkedProcessTimeoutInSeconds> 
+            <printSummary>false</printSummary>
         </configuration>
     </plugin>
       <plugin>

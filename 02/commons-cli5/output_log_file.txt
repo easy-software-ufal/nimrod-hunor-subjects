@@ -1,8 +1,5 @@
-Running ant (export.cp.compile)............................................ OK
-
-Running ant (export.classes.modified)...................................... OK
-
 Class: org.apache.commons.cli.Util
+Classpath: /home/leofernandesmo/workspace/easylab/defects4j/subjects/Cli_5f/target/classes:/home/leofernandesmo/workspace/easylab/defects4j/subjects/Cli_5f/target/lib/junit-3.8.1.jar
 Running ant (compile)...................................................... OK
 Running ant (compile.tests)................................................ OK
 Running ant (compile.tests)................................................ OK
@@ -17,7 +14,7 @@ warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym
 warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/AutoCloseable.class): major version 52 is newer than 51, the highest major version supported by this compiler.
   It is recommended that the compiler be upgraded.
 /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/AutoCloseable.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
-#Generated Mutants: 30 (78 ms)
+#Generated Mutants: 30 (57 ms)
 6 warnings
 Running ant (compile.tests)................................................ OK
 Running ant (coverage.instrument).......................................... OK
@@ -37,12 +34,23 @@ Mutants generated: 25
   Mutants covered: 25
    Mutants killed: 25
    Mutation score: 100.0% (100.0%)
-   Total run time: 89.0 seconds
+   Total run time: 52.0 seconds
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Object.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/Object.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation': class file for jdk.Profile+Annotation not found
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/String.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/String.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+warning: /home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/AutoCloseable.class): major version 52 is newer than 51, the highest major version supported by this compiler.
+  It is recommended that the compiler be upgraded.
+/home/leofernandesmo/.sdkman/candidates/java/8.0.265.hs-adpt/lib/ct.sym(META-INF/sym/rt.jar/java/lang/AutoCloseable.class): warning: Cannot find annotation method 'value()' in type 'Profile+Annotation'
+#Generated Mutants: 30 (47 ms)
+6 warnings
 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,
-./mutants/30
-./mutants/26
-./mutants/28
-./mutants/27
-./mutants/29
+./allmutants/30
+./allmutants/27
+./allmutants/26
+./allmutants/29
+./allmutants/28
 Finished.
 Finished
